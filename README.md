@@ -7,4 +7,6 @@ Based on observations only and thanks to the Baum-Welch algorithm, we are able t
 
 
 The prediction in Dynamic Programming is less precised (70% of confidence) but is a common approach to a lot of problems, a fundamental application example being matrices multiplication.
+
+
 Codes and report are provided in french.
